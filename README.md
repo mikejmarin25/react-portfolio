@@ -25,7 +25,7 @@ Feel free to contact me with any question regarding my experience or previously 
 
 ## Usage
 ------
-* Navigate to the [deployed portfolio](https://mikejmarin25.github.io/react-portfolio/#/).
+* Navigate to the [deployed portfolio](https://mikejmarin25.github.io/react-profile/).
 
 ## Demo
 ------
