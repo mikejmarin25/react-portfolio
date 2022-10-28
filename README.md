@@ -27,6 +27,11 @@ Feel free to contact me with any question regarding my experience or previously 
 ------
 * Navigate to the [deployed portfolio](https://mikejmarin25.github.io/react-profile/).
 
+* To deploy application locally run:
+- npm i (downloads all dependencies)
+- npm start (you will be redirected the the live site)
+
+
 ## Demo
 ------
 [demo.webm](https://user-images.githubusercontent.com/105763252/198439043-3806810e-76a4-4052-b2bb-aab62a4f0978.webm)
