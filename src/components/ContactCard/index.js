@@ -8,7 +8,7 @@ function ContactCard(){
         <div className="uk-container">
             <div className = "uk-text-center">
                 <p>You can reach out to me via social media, but the best way to contact me is through email me at <a id= "emailLink" href="mailto:mikejmarin25@gmail.com">mikejmarin25@gmail.com</a></p>
-                <p>This form is another way to get in touch</p>
+                <br></br>
                 <div className="uk-text-center uk-text-middle">
                     <a uk-icon="icon: github-alt" className="contact-icon contact-link-icon" href="https://github.com/mikejmarin25"  target="_blank"></a>
                     <a uk-icon="icon: linkedin" className="contact-icon contact-link-icon" href="https://www.linkedin.com/in/mikejmarin25/" target="_blank"></a>
