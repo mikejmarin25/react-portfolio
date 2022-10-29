@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9c85b96b.css",
+    "main.js": "/react-portfolio/static/js/main.aef107b0.js",
+    "static/media/background1.jpg": "/react-portfolio/static/media/background1.72e34080595459269ceb.jpg",
+    "static/media/weatherDash.png": "/react-portfolio/static/media/weatherDash.66fd7271ed98443b048d.png",
+    "static/media/aboutMe.jpg": "/react-portfolio/static/media/aboutMe.69528d308154c9a179a9.jpg",
+    "static/media/devConnect.png": "/react-portfolio/static/media/devConnect.7043f21e9b35631e163f.png",
+    "static/media/teamBuilder.png": "/react-portfolio/static/media/teamBuilder.42452e1b14abc68b68a3.png",
+    "static/media/employeeManager.png": "/react-portfolio/static/media/employeeManager.74ceca032002ff33cfe1.png",
+    "static/media/workDayScheduler.png": "/react-portfolio/static/media/workDayScheduler.c416ff0fff104976ea25.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.3c5f9e4b32d58f145dc2.png",
+    "static/media/Maikol Marin Resume.doc.pdf": "/react-portfolio/static/media/Maikol Marin Resume.doc.ed1ef3e631a5db30cca5.pdf",
+    "static/media/Jate.png": "/react-portfolio/static/media/Jate.ffb85db26d700eef60e9.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.9c85b96b.css.map": "/react-portfolio/static/css/main.9c85b96b.css.map",
+    "main.aef107b0.js.map": "/react-portfolio/static/js/main.aef107b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c85b96b.css",
+    "static/js/main.aef107b0.js"
+  ]
+}
