@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.9c85b96b.css",
-    "main.js": "/react-portfolio/static/js/main.aef107b0.js",
+    "main.css": "/react-portfolio/static/css/main.1bb888b8.css",
+    "main.js": "/react-portfolio/static/js/main.7b0b38a1.js",
     "static/media/background1.jpg": "/react-portfolio/static/media/background1.72e34080595459269ceb.jpg",
     "static/media/weatherDash.png": "/react-portfolio/static/media/weatherDash.66fd7271ed98443b048d.png",
     "static/media/aboutMe.jpg": "/react-portfolio/static/media/aboutMe.69528d308154c9a179a9.jpg",
@@ -13,11 +13,11 @@
     "static/media/Maikol Marin Resume.doc.pdf": "/react-portfolio/static/media/Maikol Marin Resume.doc.ed1ef3e631a5db30cca5.pdf",
     "static/media/Jate.png": "/react-portfolio/static/media/Jate.ffb85db26d700eef60e9.png",
     "index.html": "/react-portfolio/index.html",
-    "main.9c85b96b.css.map": "/react-portfolio/static/css/main.9c85b96b.css.map",
-    "main.aef107b0.js.map": "/react-portfolio/static/js/main.aef107b0.js.map"
+    "main.1bb888b8.css.map": "/react-portfolio/static/css/main.1bb888b8.css.map",
+    "main.7b0b38a1.js.map": "/react-portfolio/static/js/main.7b0b38a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c85b96b.css",
-    "static/js/main.aef107b0.js"
+    "static/css/main.1bb888b8.css",
+    "static/js/main.7b0b38a1.js"
   ]
 }
