@@ -7,7 +7,7 @@ function MyName(){
             <div className = "uk-text-center">
                 <div className = "name-container">
                     <h1 id ="myName">Mike J Marin</h1>
-                    <h2> Full-Stack Web Developer</h2>
+                    <h5 id ="myDescription"> Full-Stack Web Developer</h5>
                 </div>
             </div>
         </div>

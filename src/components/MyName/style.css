@@ -12,6 +12,12 @@
     font-weight: 300;
 }
 
+#myDescription, .name-container p{
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 100;
+    font-size: 32px;
+}
+
 #myName{
     font-size: 64px;
 }
